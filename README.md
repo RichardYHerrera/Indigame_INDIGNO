@@ -22,10 +22,17 @@ Juego en desarrollo al estilo de hotline miami
 <img align="right" height="321" src="https://raw.githubusercontent.com/RichardYHerrera/Indigame_INDIGNO/refs/heads/main/indigno%20cuy.gif"  />
 
 ###
-###
+
+<br clear="both">
+<h4 align="center">"test 1/ aqui se prueban las colisiones de los personajes, tambien el timemaplayer //con las texturas respectivas// "</h1>
 
 <br clear="both">
 
-<img align="right" height="321" src="https://raw.githubusercontent.com/RichardYHerrera/Indigame_INDIGNO/refs/heads/main/test1.PNG"  />
+###
+
+
+<br clear="both">
+
+<img align="center" height="321" src="https://raw.githubusercontent.com/RichardYHerrera/Indigame_INDIGNO/refs/heads/main/test1.PNG"  />
 
 ###
