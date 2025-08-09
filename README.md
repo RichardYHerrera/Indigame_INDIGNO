@@ -24,6 +24,21 @@ Juego en desarrollo al estilo de hotline miami
 ###
 
 <br clear="both">
+<h4 align="center">"creacion del personaje con las colisiones, animaciones y su respectiva camara "</h1>
+
+<br clear="both">
+
+###
+
+
+<br clear="both">
+
+<img align="center" height="321" src="https://raw.githubusercontent.com/RichardYHerrera/Indigame_INDIGNO/refs/heads/main/sprite%20jugador.PNG"  />
+
+
+###
+
+<br clear="both">
 <h4 align="center">"test 1/ aqui se prueban las colisiones de los personajes, tambien el timemaplayer //con las texturas respectivas// "</h1>
 
 <br clear="both">
