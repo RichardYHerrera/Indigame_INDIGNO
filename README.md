@@ -22,3 +22,10 @@ Juego en desarrollo al estilo de hotline miami
 <img align="right" height="321" src="https://raw.githubusercontent.com/RichardYHerrera/Indigame_INDIGNO/refs/heads/main/indigno%20cuy.gif"  />
 
 ###
+###
+
+<br clear="both">
+
+<img align="right" height="321" src="https://raw.githubusercontent.com/RichardYHerrera/Indigame_INDIGNO/refs/heads/main/test1.PNG"  />
+
+###
